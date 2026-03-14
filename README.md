@@ -1,7 +1,7 @@
-## Hey there!
-# lauremariho.github.io
+# Hey there!
+## lauremariho.github.io
 
-My personal website — research, portfolio, and contact info.
+My personal website: research, portfolio, and contact info.
 
 Built with HTML, CSS, and hosted on GitHub Pages.
 <!--
